@@ -1,0 +1,24 @@
+IDEAS:
+
+--------- SHUFFLEDNESS ANALYSIS ---------
+- Count number of inversions
+- Count number of movements/swaps to being sorted
+	- Either more swaps is more "shuffled"
+	- Or you do it the same as inversions, where you find the probability of a permutation needing that many swaps (works better for backwards not being "super random")
+- Maybe average or min of the two?
+- (TRY THIS NEXT?) Find length and number of chunks of:
+	- Numbers incrementing or decrementing by 1
+	- Increasing/decreasing numbers
+
+
+----------- WAYS OF SHUFFLING -----------
+- Riffle
+- Overhand
+- k-Pile
+
+
+
+------------- VISUALIZATION -------------
+- Color 
+- Height of bar (like sorting visualizations)
+- Slope (like that one card shuffling vis)

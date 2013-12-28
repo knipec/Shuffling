@@ -10,6 +10,12 @@ IDEAS:
 - (TRY THIS NEXT?) Find length and number of chunks of:
 	- Numbers incrementing or decrementing by 1
 	- Increasing/decreasing numbers
+- Greatest Coincidence: min of: (min isn't quite right, but as long as the number of tests is pretty small it should be pretty close to what you want maybe. If the number of tests gets too big then you're basically making the same mistake as conspiracy theorists and seeing coincidences ERYWHERE)
+	- Probability of X reversals (or fewer) occuring in a random shuffle
+	- Probability of X neighbors (or fewer) remaining together in a random shuffle
+	- Probability of SOME PATTERN occuring with SOME FREQUENCY in a random shuffle
+	- etc...
+- Best Predictor: train a bunch of models (neural nets?) to predict 2 cards given the other 50. The less accurate the model, the better shuffled.
 
 
 ----------- WAYS OF SHUFFLING -----------

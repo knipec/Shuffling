@@ -5,6 +5,7 @@ IDEAS:
 - Count number of movements/swaps to being sorted
 	- Either more swaps is more "shuffled"
 	- Or you do it the same as inversions, where you find the probability of a permutation needing that many swaps (works better for backwards not being "super random")
+	- http://stackoverflow.com/questions/13549051/find-the-number-of-swaps-needed-to-sort-a-given-array
 - Maybe average or min of the two?
 - (TRY THIS NEXT?) Find length and number of chunks of:
 	- Numbers incrementing or decrementing by 1
